@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá👋
+
+![](https://media1.tenor.com/m/ehEfbcr58RQAAAAd/neymar-sheozinho.gif)
 
 <!--
 **thur016/thur016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
